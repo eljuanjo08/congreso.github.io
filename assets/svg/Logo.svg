@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1803.06 496.36">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #18b0c0;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        font-family: BebasNeue-Regular, 'Bebas Neue';
+      }
+
+      .cls-4, .cls-5, .cls-6 {
+        fill: #2164ad;
+      }
+
+      .cls-4, .cls-6 {
+        font-size: 203.5px;
+      }
+
+      .cls-7 {
+        fill: #fac106;
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+
+      .cls-9 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6 {
+        font-family: BebasNeueBook, 'Bebas Neue';
+      }
+
+      .cls-2 {
+        font-family: MontserratRoman-SemiBold, Montserrat;
+        font-size: 48.96px;
+        font-variation-settings: 'wght' 600;
+        font-weight: 600;
+        letter-spacing: .2em;
+      }
+
+      .cls-10 {
+        fill: #d26c18;
+      }
+    </style>
+  </defs>
+  <g id="Capa_1-2" data-name="Capa 1">
+    <g>
+      <path class="cls-1" d="m83.03,70.36v51.67s-39.96,0-39.96,0c-4.42-7.51-12.65-12.55-22.01-12.55-8.77,0-16.46,4.39-21.07,11.06v-29.29c0-11.54,9.35-20.89,20.89-20.89h62.14Z"/>
+      <rect class="cls-1" x="60.88" y="216.74" width="22.15" height="42.89"/>
+      <rect class="cls-1" x="67.48" y="348.5" width="15.55" height="39.85"/>
+      <path class="cls-1" d="m34.74,190.56v95.25s48.3,0,48.3,0v36.51s-41.73,0-41.73,0v92.2s41.73,0,41.73,0v35.61s-62.14,0-62.14,0C9.35,450.13,0,440.78,0,429.24V149.7c4.6,6.67,12.33,11.06,21.07,11.06,9.35,0,17.58-5.04,22.01-12.55h39.96s0,42.35,0,42.35h-48.3Z"/>
+      <rect class="cls-5" x="109.21" y="148.21" width="28.57" height="42.35"/>
+      <rect class="cls-5" x="109.21" y="285.81" width="15.12" height="36.51"/>
+      <path class="cls-5" d="m223.86,233.2h-21.86s0,105.15,0,105.15h73.13c4.42-7.51,12.62-12.55,22.01-12.55,14.14,0,25.63,11.49,25.63,25.63,0,14.18-11.49,25.63-25.63,25.63-9.39,0-17.59-5.04-22.01-12.55h-99.31s0-157.5,0-157.5h48.04s0-136.66,0-136.66h-114.65s0,51.67,0,51.67h54.75s0,94.71,0,94.71h-54.75s0,42.89,0,42.89h41.3s0,88.87,0,88.87h-41.3s0,39.85,0,39.85h270.52s0-73.93,0-73.93h-155.87s0-81.22,0-81.22Z"/>
+      <path class="cls-7" d="m250.03,89.62v117.4s25.09,0,25.09,0c4.35-7.38,12.35-12.38,21.54-12.54,13.92-.25,25.87,11.28,26.1,25.2.24,14.38-11.35,26.07-25.63,26.07-9.39,0-17.59-5.04-22.01-12.55h-25.09s0,55.04,0,55.04h104.1s0-126.94,0-126.94h-37.06c-4.71,5.8-11.89,9.54-19.94,9.54-14.32,0-25.86-11.72-25.63-26.05.21-13.52,11.53-24.91,25.04-25.21,10.84-.24,20.2,6.24,24.19,15.55h58.99s0-25.29,0-25.29c0-11.16-9.05-20.21-20.21-20.21h-109.48Z"/>
+      <path class="cls-10" d="m379.73,414.52v17.74c0,9.87-8,17.86-17.86,17.86H109.21s0-35.61,0-35.61h270.52Z"/>
+      <text class="cls-4" transform="translate(505.78 360.66)"><tspan x="0" y="0">Científi</tspan><tspan class="cls-3" x="499.99" y="0">c</tspan><tspan class="cls-9" x="578.33" y="0">O N</tspan><tspan class="cls-8" x="779.18" y="0">a</tspan><tspan x="860.38" y="0">cional</tspan></text>
+      <text class="cls-2" transform="translate(506.78 433.79)"><tspan x="0" y="0">Avances Científicos y Tecnológicos </tspan><tspan x="0" y="49.89">Aplicados en la Medicina Moderna</tspan></text>
+      <text class="cls-6" transform="translate(516.97 172.97)"><tspan x="0" y="0">XXI</tspan></text>
+      <text class="cls-6" transform="translate(497.84 172.97)"><tspan x="0" y="0" xml:space="preserve">         Congreso</tspan></text>
+    </g>
+  </g>
+</svg>
