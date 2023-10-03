@@ -52,11 +52,11 @@ h1 {
     color: #2A64AB;
 }
 
-.sec-congreso-contenido-p,
-.sec-concurso-p{
+p{
     border-top: 1px solid #2A64AB;
     color: #2A64AB;
     padding-top: 10px;
+    font-size: 1rem;
 }
 
 /* Seccion concurso */
@@ -75,12 +75,6 @@ h1 {
 
 .sec-concursos-titulo h2 {
     color: #fff;
-}
-
-@media screen and (max-width: 770px) {
-    .sec-concurso-imagen {
-        display: none;
-    }
 }
 
 .sec-concurso-imagen {
@@ -102,7 +96,7 @@ h1 {
 .sec-concursos-lista-element {
     color: #2A64AB;
     margin-top: 40px;
-    font-size: 25px;
+    font-size: 1rem;
 }
 
 .sec-concursos-lista-element span {
@@ -163,9 +157,43 @@ button:hover {
 }
 
 footer {
-    font-size: 15px;
+    font-size: .75rem;
 }
 
 footer h5 {
-    font-size: 15px;
+    font-size: .75rem;
+}
+
+@media screen and (max-width: 770px) {
+    .sec-concurso-imagen {
+        display: none;
+    }
+
+    .sec-registro-img {
+        display: none;
+    }
+
+    .footer-img {
+        height: 60px;
+    }
+}
+
+@media screen and (max-width: 1000px) and (min-width: 770px) {
+    /* .sec-concurso-imagen {
+        display: none;
+    }
+
+    .sec-registro-img {
+        display: none;
+    } */
+
+    .footer-img {
+        height: 60px;
+    }
+}
+
+@media screen and (min-width: 1100px) {
+    p, .sec-concursos-lista-element {
+        font-size: 1.2rem;
+    }
 }
